@@ -9,6 +9,7 @@ int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
 
+    //Bastis Datei
     MainWindow mainwindow;
     mainwindow.show();
     return a.exec();
